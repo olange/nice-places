@@ -4,7 +4,7 @@ title: Nice places
 tags: home
 ---
 
-# My favorites
+# olange
 
 * [Geneva, Switzerland](geneva.html) _Places where I feel well coding and studying_
 
