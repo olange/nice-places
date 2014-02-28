@@ -1,5 +1,5 @@
 # Nice places
 
-* [Geneva, Switzerland](#) _Mes lieux favoris, à Genève, pour coder & étudier_
+* [Geneva, Switzerland](http://olange.github.io/nice-places/geneva) _My favorite places in Geneva, to code or study_
 
-Placeholder repository. Voir article [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github).
+See the `gh-pages` branch for the actual content. This branch is empty.
