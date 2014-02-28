@@ -1,0 +1,4 @@
+name: Nice places
+tagline: for nomadic coding and studying
+markdown: redcarpet
+pygments: true

@@ -1,12 +1,10 @@
 ---
+layout: place
 title: Nice places in Geneva
 tags: geneva
-published: true
 ---
 
-# Nice places in Geneva
-
-where I feel well to code & study.
+# in Geneva
 
 * [Café des Sources](http://www.cafedesources.ch) lun-ven 07:00-23:00, sam 9:30-16:00, dim fermé _belle lumière, le soleil tombe en oblique sur les tables; bondé à midi et le soir, réserver pour manger_ [Sources 8, 1205 Genève](https://goo.gl/maps/7UozB), +41 22 320 67 98
 * [Livresse](http://livresse.ch/OuNousTrouver.php) lun 13:00-0:00, mar-sam 09:00-0:00, sam 10:00-01:00, dim fermé [Vignier 5, 1205 Genève](https://goo.gl/maps/aBIX1) +41 22 320 80 57 :signal_strength:
