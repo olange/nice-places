@@ -4,7 +4,10 @@ layout: default
 <header>
   <h1><a href="index.html">{{ site.name }}</a></h1>
   <p>{{ site.tagline }}</p>
+  <div id="map">
+    <script src="https://embed.github.com/view/geojson/olange/nice-places/gh-pages/{{ page.map-geojson }}?height=420&width=420"></script>
+  </div>
 </header>
-<section>
+<section id="content">
   {{ content }}
 </section>

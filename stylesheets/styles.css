@@ -101,6 +101,12 @@ header {
   position:fixed;
 }
 
+div#map {
+  width:420px;
+  position:relative;
+  left:-100px;
+}
+
 header ul {
   list-style:none;
   height:40px;

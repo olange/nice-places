@@ -1,7 +1,9 @@
 ---
 layout: place
-title: Nice places in Geneva
+title: My favorite places in Geneva
 tags: geneva
+map-geojson: geneva-markers.geojson
+map-id: olange.hd79dpc4
 ---
 
 # in Geneva
@@ -16,3 +18,5 @@ tags: geneva
 * [La Rotonde des Bastions](http://www.bastions.ch), lun-sam 10:00-0:00, dim fermé [Promenade Bastions 1, 1204 Genève](https://goo.gl/maps/vRgmS) +41 22 310 86 66
 * Le Café Bio, Montbrillant [vers Gares 17, 1201 Genève](https://goo.gl/maps/qG9Fi)
 * [La Barje des Volontaires](http://www.labarje.ch/lieux/volontaires) lun-sam 16:00-22:00 (-0:00 mer-jeu, -02:00 ven-sam), dim fermé [Coulouvrenière 26, 1204 Genève](https://goo.gl/maps/ytF9F) +41 22 321 44 28
+
+Markers were exported from Mapbox Map ID [{{ page.map-id }}](https://www.mapbox.com/editor/?id={{ map-id }})
