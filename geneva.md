@@ -1,4 +1,10 @@
-Nice places in Geneva
+---
+title: Nice places in Geneva
+tags: geneva
+published: true
+---
+
+# Nice places in Geneva
 
 where I feel well to code & study.
 
