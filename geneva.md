@@ -19,7 +19,8 @@ map-id: olange.hd79dpc4
 * Le Café Bio, Montbrillant [vers Gares 17, 1201 Genève](https://goo.gl/maps/qG9Fi)
 * [La Barje des Volontaires](http://www.labarje.ch/lieux/volontaires) lun-sam 16:00-22:00 (-0:00 mer-jeu, -02:00 ven-sam), dim fermé [Coulouvrenière 26, 1204 Genève](https://goo.gl/maps/ytF9F) +41 22 321 44 28
 * [Café le Bout de la Rue](https://plus.google.com/117226853408065853996/about?gl=ch&hl=fr) lun-jeu 10:00-01:00, ven-sam 10:00-02:00, dim 11:00-22:00 [École-de-Médecine 14, 1205 Genève](https://goo.gl/maps/k9jFY) +41 22 320 51 51
-* [Café de la Paix](http://www.cafedelapaix.ch/site/fr/) lun-jeu 07:00-22:00, ven 07:00-23:00, sam 10:00-23:00, dim 10:00-22:00 [Carl-Vogt 61, 1205 Genève](https://goo.gl/maps/iX1RX) +41 22 301 11 88 :signal_strengh:
+* [Café de la Paix](http://www.cafedelapaix.ch/site/fr/) lun-jeu 07:00-22:00, ven 07:00-23:00, sam 10:00-23:00, dim 10:00-22:00 [Carl-Vogt 61, 1205 Genève](https://goo.gl/maps/iX1RX) +41 22 301 11 88 :signal_strength:
 * [Café de la Cité du Temps](http://www.citedutemps.com/) lun-ven 09:00-18:00 _imperturbablement planté au milieu du Rhône, phare pop-kitsch, où l'on sert du grog à la menthe aux étourdis qui visiteraient la rade les jours de tempête_ [Pont de la Machine, 1204 Genève](https://goo.gl/maps/SRtep) +41 22 310 58 03 :signal_strength:
+* [Restaurant Va Piano](http://chfr.vapiano.com/fr/restaurants/details/restaurant-details/vapiano-geneve-place-saint-gervais-3/) lun-jeu+dim 08:30-24:00, ven-sam 08:30-01:00 _chaleureux et lumineux, grimper au premier étage pour prendre un café et s'installer face au beau tilleul argenté, de jaune et d'or les jours d'automne_ [Place Saint-Gervais 3, 1201 Genève](https://goo.gl/maps/K3kh3) +41 22 301 32 32 :signal_strength:
 
 Markers were exported from Mapbox Map ID [{{ page.map-id }}](https://www.mapbox.com/editor/?id={{ page.map-id }})
