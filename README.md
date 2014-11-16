@@ -14,15 +14,15 @@ See the article [Mapping geoJSON files on GitHub](https://help.github.com/articl
 
 ## Previewing changes
 
-To preview your changes locally in a browser, you might want to [install Jekyll](http://jekyllrb.com/docs/installation/):
-
-    $ gem install jekyll
-
-And [let Jekyll serve](http://jekyllrb.com/docs/usage/) the site locally:
+To preview your changes locally in a browser, you might want to [install Jekyll](https://help.github.com/articles/using-jekyll-with-pages/#installing-jekyll). Assuming you have Ruby and bundler installed:
 
     $ git clone git@github.com:olange/nice-places.git
     $ cd nice-places
-    $ jekyll serve --watch
+    $ bundle install
+
+And [let Jekyll serve](http://jekyllrb.com/docs/usage/) the site locally:
+
+    $ bundle exec jekyll serve --watch
     Configuration file: …/nice-places/_config.yml
                 Source: …/nice-places
            Destination: …/nice-places/_site
