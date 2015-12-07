@@ -24,6 +24,6 @@ map-id: olange.hd79dpc4
 * [Restaurant Va Piano](http://chfr.vapiano.com/fr/restaurants/details/restaurant-details/vapiano-geneve-place-saint-gervais-3/) lun-jeu+dim 08:30-24:00, ven-sam 08:30-01:00 _chaleureux et lumineux, grimper au premier étage pour prendre un café et s'installer face au beau tilleul argenté, de jaune et d'or les jours d'automne_ [Place Saint-Gervais 3, 1201 Genève](https://goo.gl/maps/K3kh3) +41 22 301 32 32 :signal_strength:
 * [Brasserie Da Matteo](http://www.brasseriedamatteo.com/) lun-dim 12:00-24:00  _brasserie et bar à piano, espace lumineux, grâce à une belle verrière; s'y rendre l'après-midi de 14 à 17h, après lieu se transforme en bar_ [Rue du Stand 50, 1204 Genève](https://goo.gl/maps/AI3ST) +41 22 312 15 05 :signal_strength:
 * [Café du Musée d'ethnographie](http://www.ville-ge.ch/meg/informer.php) mar-dim 11:00-18:00  _espace lumineux, avec vue sur l'esplanade du Musée et le nouveau bâtiment de la radio-télévision_ [Boulevard Carl-Vogt 65, 1205 Genève](https://goo.gl/maps/v43hu) +41 76 558 20 35 :signal_strength:
-* [Voisins - Coworking Café](http://www.voisins.ch/cafe/) lun-ven 08:00-24:00 __ [Rue des Voisins 8, 1205 Genève](https://goo.gl/maps/B7mmfTb2tso) +41 22 735 24 27 :signal_strength:
- 
+* [Voisins - Coworking Café](http://www.voisins.ch/cafe/) lun-ven 08:00-24:00 _À côté du Café des Sources, espace de coworking et café chaleureux, avec espaces de travail et salles de conférence_ [Rue des Voisins 8, 1205 Genève](https://goo.gl/maps/B7mmfTb2tso) +41 22 735 24 27 :signal_strength:
+
 Markers were exported from Mapbox Map ID [{{ page.map-id }}](https://www.mapbox.com/editor/?id={{ page.map-id }})
