@@ -1,8 +1,8 @@
 # Nice places
 
-* [Geneva, Switzerland](http://olange.github.io/nice-places/geneva) _My favorite places in Geneva, to code or study_
+[Geneva, Switzerland](http://olange.github.io/nice-places/geneva) _My favorite places in Geneva, to code or study_
 
-## Contents
+## Contents
 
 This repository is the source of the website [olange.github.io/nice-places](http://olange.github.io/nice-places/). New places added to the files of this repository will be automatically published to the website by [GitHub Pages](http://pages.github.com).
 
