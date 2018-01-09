@@ -1,5 +1,4 @@
 name: My favorite places
 tagline: for nomadic coding and studying
-markdown: redcarpet
 highlighter: rouge
 gems: [ jemoji ]
